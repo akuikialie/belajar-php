@@ -1,7 +1,7 @@
 <?php
 
 /** Tipe Data Boolean
-  * Ini tipe data dengan value tersedikit
+  * Ini tipe data dengan 2 value saja
   * Value nya hanya true atau false
   * jadi, kalau nggak true ya false
   * kalau nggak benar ya salah
