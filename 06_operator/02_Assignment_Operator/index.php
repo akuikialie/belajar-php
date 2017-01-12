@@ -1,7 +1,8 @@
 <?php
 
-/*Operatot Assigment digunakan dengan numerik values untuk menulis sebuah values menjadi variable */
+/* Operator Assigment digunakan dengan numerik values untuk menulis sebuah values menjadi variable */
 
+/*Basic dari assignment operator adalah "=".
 
 /* untuk ini mendefinisikan bahwa $a bernilai 10*/
 
